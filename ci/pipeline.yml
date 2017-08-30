@@ -1,4 +1,3 @@
----
 resources:
 - name: attendee-service-source
   type: git
