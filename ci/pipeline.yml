@@ -11,7 +11,7 @@ resources:
     api: https://attendee-service-sporotrichotic-ceilometer.apps.pikes.pal.pivotal.io        #<---- REPLACE ME
     username: {{cf-user}}
     password: {{cf-password}}
-    organization: sbatreddy-pal    #<---- REPLACE ME
+    organization: sbatreddy-pal
     space: sreedharreddy.batreddy@cognizant.com         #<---- REPLACE ME
     skip_cert_check: true
 
